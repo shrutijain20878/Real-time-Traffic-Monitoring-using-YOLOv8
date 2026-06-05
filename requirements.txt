@@ -1,9 +1,8 @@
+streamlit
 ultralytics
-roboflow
-opencv-python
+opencv-python-headless
 deep-sort-realtime
-torch
 numpy
-pyyaml
-tqdm
-cv2
+torch
+python-dotenv
+roboflow

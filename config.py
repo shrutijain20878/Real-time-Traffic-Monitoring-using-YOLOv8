@@ -1,11 +1,11 @@
 import torch
 
 VIDEO_PATH = "data/traffic.mp4"
-OUTPUT_VIDEO = "output/final_traffic_monitoring.avi"
+OUTPUT_VIDEO = "output.mp4"
 
 MODEL_PATH = "models/best.pt"
 
-CONF_THRES = 0.25
+CONF_THRES = 0.4
 
 PIXEL_TO_METER = 0.05
 
